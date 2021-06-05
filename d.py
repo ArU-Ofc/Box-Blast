@@ -19,6 +19,10 @@ fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : It's just made for fun.  We ar
 notice = yellow + '                \xe2\x9c\xaaBangladeshi Sms Bombing Tools\xe2\x9c\xaa                      '
 print ' \n \x1b[92m                    #####                    \n                    #     #                   \n                    #      #                    \n                    ########                    \n                    #      #                    \n                    #      # '
 print ''
+print ''
+print ' Noakhailla Mal.We Can Make System, We Can Fuck System '
+print ''
+print ''
 
 def logop(z):
     for word in z + '\n':
@@ -28,7 +32,7 @@ def logop(z):
 
 
 print ''
-logop(' \x1b[92m\n|****************************************************| \n| Author   : Ariful Islam Arman                     |\n| Tool     : Box Blast                               |\n| Version  : 1.0                                     |\n| Facebook : ArU                                     |\n| Link     : https://www.facebook.com/Aru.Ofc/       |\n| Coded By : ArU                                     |\n******************************************************')
+logop(' \x1b[92m\n|****************************************************| \n| Author   : Ariful Islam Arman                      |\n| Tool     : Box Blast                               |\n| Version  : 1.0                                     |\n| Facebook : ArU                                     |\n| Link     : https://www.facebook.com/Aru.Ofc/       |\n| Coded By : ArU                                     |\n******************************************************')
 os.system('xdg-oetapen https://www.facebook.com/Aru.Ofc/')
 print ''
 print ''
