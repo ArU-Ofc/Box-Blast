@@ -23,6 +23,9 @@ print ''
 print ' Noakhailla Mal.We Can Make System, We Can Fuck System '
 print ''
 print ''
+print 'Made By 1R13A14'
+print ''
+print ''
 
 def logop(z):
     for word in z + '\n':
@@ -63,7 +66,7 @@ for i in range(amount):
     url = 'https://prod-api.viewlift.com/identity/signup?site=hoichoitv'
     res = requests.post(url, json=data, headers=header)
     if res.status_code == 200:
-        logop(red + '        [\xe2\x9c\x93] Sms Sent Successfully')
+        logop(green + '        [\xe2\x9c\x93] Sms Sent Successfully')
     else:
         logop(red + '        [\xe2\x9c\x93] Sms Sent Successfully')
 
