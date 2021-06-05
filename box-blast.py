@@ -32,7 +32,6 @@ def logop(z):
 print ''
 logop(' \x1b[92m\n|****************************************************| \n| Author   : Ariful Islam Arman                      |\n| Tool     : Box Blast                               |\n| Version  : 1.0                                     |\n| Facebook : Aru                                     |\n| Link     : https://www.facebook.com/Aru.Ofc/       |\n| Coded By : Aru                                     |\n******************************************************')
 
-print 'Noakhailla Mal. We Can Make System We Can fuck System'
 
 print ''
 print ''
