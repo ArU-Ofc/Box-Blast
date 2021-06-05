@@ -13,7 +13,7 @@ Free Sms Bombing
 
 --> pip2 install bs4
 
---> git clone https://github.com/Aru.Ofc/Box-Blast
+--> git clone https://github.com/ArU-Ofc/Box-Blast
 
 --> cd Box-Blast 
 
