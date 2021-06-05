@@ -1,4 +1,4 @@
-# coded by ArU
+# coded by L0W - K3Y
 # uncompyle6 version 3.7.4
 # Python bytecode 2.7
 # Decompiled from: Python 2.7.18 (default, Mar 20 2021, 14:59:33) 
@@ -17,7 +17,8 @@ yellow = '\n\n\x1b[1;93m'
 os.system('clear')
 fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : It's just made for fun.  We are not responsible if someone misuses it."
 notice = yellow + '                \xe2\x9c\xaaBangladeshi Sms Bombing Tools\xe2\x9c\xaa                      '
-print '\n\x1b[92m  \n    Aru
+print '\n\x1b[92m _                       _  __\n| |    _____      __    | |/ /___ _   _\n| |   / _ \ \ /\ / /____| . // _ \ | | |\n| |__| (_) \ V  V /_____| . \  __/ |_| |\n|_____\___/ \_/\_/      |_|\_\___|\__, |\n                                  |___/'
+print ' \n \x1b[92m                                 ###########                                  \n                          ##                         ##                         \n                     #(                                   ##                    \n                 ##                                           ##                \n              ##              #@@@@@&@@@@@&#@%@@@#               ##             \n            #              (@@@@#@@&#(@#@@,#@%&%@@@@#               #           \n          #               #@@@%&@@@&& @  ###(@@@@#@@@&                #         \n        #                   #@#@@@&(##  .  ##%@@@@#@                    #       \n       #                      @@@@@@##    ##@@@@#@,                      #      \n      #                 #@@@@#  @#&#@@%  @#@###@   @@@@@,                 #     \n     (                  #@@@@#   ,@#@#@@@@&@#@#    @@@@@,                  #    \n    #                   #@@@@@@#   #@#@#(##@#   ,&@@@@@@,                   #   \n   #                    #@@@@@@@@@.  #@#%@@   (@@@@@@@@@,                    (  \n   #                    #@@@@@@@@@@@(  #@   %@@@@@@@@@@@,                    #  \n   ,                    #@@@@%@@@@@@@@#  ,@@@@@@@@&@@@@@,                    #  \n                        (##### ,@@@@@@@@@@@@@@@@#  #####,                    #  \n   *                    /(((((((((@@@@@@@@@@@@(  (((((((,                    #  \n   #                    #@@@@@@@@@@@@@@@@@@@, *@@@@@@@@@*                    #  \n   #                    #@@@@@@@@@@@@@@@@#  (@@@@@@@@@@@*                       \n    #                   (%%%%%%%%%%%%%%#  (%%%%%%%%@@@@@*                   #   \n     #                  *////*                     &@@@@*                  #    \n      #                 #@@@@(                     &@@@@*                 #     \n       #                #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*                #      \n        #               #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*              /#       \n          #             #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*             #         \n            #           #@@@@(                     &@@@@*           #           \n              ##        #@@@@(                     &@@@@*        #              \n                 ##                                           ##                \n                     ##                                   ##                    \n                          ##(                       ###                         \n                                     #######"'
 print ''
 
 def logop(z):
@@ -28,8 +29,8 @@ def logop(z):
 
 
 print ''
-logop(' \x1b[92m\n|****************************************************| \n| Author   : Aru                                  |\n| Tool     : BOX BLAST                                |\n| Version  : 1.0                                     |\n| Facebook : ArU                               |\n| Link     : https://www.facebook.com/Aru.Ofc                     |\n******************************************************')
-os.system('xdg-oetapen https://www.facebook.com/Aru.Ofc/')
+logop(' \x1b[92m\n|****************************************************| \n| Author   : L0W - K3Y                               |\n| Tool     : SMS BOOM                                |\n| Version  : 1.0                                     |\n| Facebook : L0W - K3Y                               |\n| Link     : https://www.facebook.com/l0wk3y.ofc/    |\n| Coded By : L0W - K3Y                               |\n******************************************************')
+os.system('xdg-oetapen https://www.facebook.com/l0wk3y.ofc/')
 print ''
 print ''
 logop(fuck)
@@ -63,5 +64,5 @@ for i in range(amount):
     else:
         logop(green + '        [\xe2\x9c\x93] Sms Sent Successfully')
 
-os.system('xdg-open https://www.facebook.com/Aru.Ofc/')
+os.system('xdg-open https://www.facebook.com/l0wk3y.ofc/')
 logop(yellow + '        \xe2\x9c\xaa Thanks For Using This Tool \xe2\x9c\xaa ')
