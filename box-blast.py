@@ -29,8 +29,8 @@ def logop(z):
 
 
 print ''
-logop(' \x1b[92m\n|****************************************************| \n| Author   :    Aru                             |\n| Tool     :  Box Blast                                |\n| Version  : 1.0                                     |\n| Facebook : Aru                                   |\n| Link     : https://www.facebook.com/Aru.Ofc/    |\n| Coded By : Aru                                     |\n******************************************************')
-os.system('xdg-oetapen https://www.facebook.com/Aru.Ofc/')
+logop(' \x1b[92m\n|****************************************************| \n| Author   : Ariful Islam Arman                        |\n| Tool     : Box Blast                                |\n| Version  : 1.0                                     |\n| Facebook : Aru                                   |\n| Link     : https://www.facebook.com/Aru.Ofc/    |\n| Coded By : Aru                                     |\n******************************************************')
+
 print ''
 print ''
 logop(fuck)
